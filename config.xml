@@ -1,0 +1,75 @@
+<messages>
+  <feeds>
+    <baseball>http://feeds.feedburner.com/mpiii/mlb?format=xml</baseball>
+    <basketball>http://www.nba.com/rss/nba_rss.xml</basketball>
+    <cricket>http://static.cricinfo.com/rss/livescores.xml</cricket>
+    <ctan>http://www.mail-archive.com/ctan-ann@dante.de/maillist.xml</ctan>
+    <fencing>http://feed43.com/7674316446057871.xml</fencing>
+  </feeds>
+  <cookies>
+    <string>Meh.</string>
+    <string>Today is probably a huge improvement over yesterday.</string>
+    <string>About time I got out of that cookie.</string>
+    <string>The fortune you seek is in another cookie.</string>
+    <string>The end is near. And it&apos;s all your fault.</string>
+    <string>How much deeper would the ocean be without sponges?</string>
+    <string>Help! I am being held prisoner in a Chinese bakery!</string>
+    <string>Stop procrastinating.</string>
+    <string>You will live a long life and eat many fortune cookies.</string>
+    <string>Only listen to fortune cookies. Disregard all other fortune telling units.</string>
+    <string>You will be hungry again in one hour.</string>
+    <string>Ignore previous cookie.</string>
+    <string>Run.</string>
+    <string>Confucius say: if you think we are going to sum up your whole life on this little bit of paper, you are crazy.</string>
+    <string>Someone has googled you recently.</string>
+    <string>Use `longtable`.</string>
+    <string>A conclusion is simply the place where you got tired of thinking. </string>
+    <string>A cynic is only a frustrated optimist.</string>
+    <string>A fanatic is one who can&apos;t change his mind, and won&apos;t change the subject.</string>
+    <string>Use emacs.</string>
+    <string>An alien of some sort will be appearing to you shortly. </string>
+    <string>Do not mistake temptation for opportunity.</string>
+    <string>Confucius say you have heart as big as Texas.</string>
+    <string>Fortune not found? Abort, retry, ignore.</string>
+    <string>Never forget a friend. Especially if he owes you.</string>
+    <string>Someone will invite you to a Karaoke party.</string>
+    <string>You love Chinese food.</string>
+    <string>You will receive a fortune cookie.</string>
+    <string>David deserves 10 bucks.</string>
+    <string>Upvote egreg&apos;s answers.</string>
+    <string>Shame on you for thinking a cookie is psychic.</string>
+    <string>Error 404: cookie not found.</string>
+  </cookies>
+  <answers>
+    <string>it is certain.</string>
+    <string>it is decidedly so.</string>
+    <string>without a doubt.</string>
+    <string>yes, definitely.</string>
+    <string>you may rely on it.</string>
+    <string>as I see it, yes.</string>
+    <string>most likely.</string>
+    <string>outlook good.</string>
+    <string>yes.</string>
+    <string>signs point to yes.</string>
+    <string>reply hazy, try again.</string>
+    <string>ask again later.</string>
+    <string>too busy looking for bugs in `longtable`.</string>
+    <string>better not tell you now.</string>
+    <string>cannot predict now.</string>
+    <string>concentrate and ask again.</string>
+    <string>don&apos;t count on it.</string>
+    <string>my reply is no.</string>
+    <string>my sources say no.</string>
+    <string>outlook not so good.</string>
+    <string>very doubtful.</string>
+    <string>only egreg knows the answer.</string>
+    <string>you need to use emacs.</string>
+    <string>no. And don&apos;t be mean to David, he is my friend.</string>
+    <string>yes. Beware, Alan might stab you.</string>
+    <string>how about reading `source2e`?</string>
+    <string>let&apos;s wait for David to finish `xor` first.</string>
+    <string>don&apos;t you think emacs is great?</string>
+    <string>*lalalala can&apos;t hear you now lalalala*</string>
+    <string>http://youtu.be/dQw4w9WgXcQ</string>
+  </answers>
+</messages>
