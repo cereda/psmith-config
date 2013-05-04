@@ -39,6 +39,10 @@
     <string>Upvote egreg&apos;s answers.</string>
     <string>Shame on you for thinking a cookie is psychic.</string>
     <string>Error 404: cookie not found.</string>
+    <string>There is no fortune, you've just eaten the paper.</string>
+    <string>An ice cream a day keeps the bugs away.</string>
+    <string>Oh crumbs! I&apos;ve just been stepped on.</string>
+    <string>Argh! Don&apos;t eat me!</string>
   </cookies>
   <answers>
     <string>it is certain.</string>
@@ -71,5 +75,6 @@
     <string>don&apos;t you think emacs is great?</string>
     <string>*lalalala can&apos;t hear you now lalalala*</string>
     <string>http://youtu.be/dQw4w9WgXcQ</string>
+    <string>I say, old bean, do you really need to know?</string>
   </answers>
 </messages>
