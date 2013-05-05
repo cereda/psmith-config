@@ -44,6 +44,7 @@
     <string>Oh crumbs! I&apos;ve just been stepped on.</string>
     <string>Argh! Don&apos;t eat me!</string>
     <string>Watch out for low flying ducks.</string>
+    <string>Buy several copies of Nicola&apos;s books.</string>
   </cookies>
   <answers>
     <string>it is certain.</string>
@@ -77,5 +78,28 @@
     <string>*lalalala can&apos;t hear you now lalalala*</string>
     <string>http://youtu.be/dQw4w9WgXcQ</string>
     <string>I say, old bean, do you really need to know?</string>
+    <string>If i recall correctly, yes.</string>
+    <string>not a snowball&apos;s chance in hell.</string>
+    <string>aye aye.</string>
+    <string>for sure.</string>
+    <string>you betcha.</string>
+    <string>affirmative.</string>
+    <string>listen to David.</string>
+    <string>nope.</string>
+    <string>no way.</string>
+    <string>never in a million years.</string>
+    <string>certainly not.</string>
+    <string>I think I&apos;ll pass.</string>
+    <string>you bet.</string>
+    <string>by all means.</string>
+    <string>are we there yet?</string>
+    <string>totally.</string>
+    <string>I sense conflict.</string>
+    <string>there&apos;s a disturbance in the Force.</string>
+    <string>been there, done that.</string>
+    <string>absolutely not.</string>
+    <string>talk to my lawyer.</string>
+    <string>it ain&apos;t happening.</string>
+    <string>not in this lifetime.</string>
   </answers>
 </messages>
