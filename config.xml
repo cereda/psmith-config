@@ -45,6 +45,8 @@
     <string>Argh! Don&apos;t eat me!</string>
     <string>Watch out for low flying ducks.</string>
     <string>Buy several copies of Nicola&apos;s books.</string>
+    <string>Someone&apos;s going to find a bug in your code.</string>
+    <string>If you&apos;re good, you can have some ice cream.</string>
   </cookies>
   <answers>
     <string>it is certain.</string>
@@ -102,5 +104,6 @@
     <string>it ain&apos;t happening.</string>
     <string>not in this lifetime.</string>
     <string>I&apos;ll answer after we have interviewed Paulo.</string>
+    <string>Only when emacs and vim learn to live in harmony.</string>
   </answers>
 </messages>
