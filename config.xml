@@ -47,6 +47,7 @@
     <string>Buy several copies of Nicola&apos;s books.</string>
     <string>Someone&apos;s going to find a bug in your code.</string>
     <string>If you&apos;re good, you can have some ice cream.</string>
+    <string>Beware the OR: it's coming to get you.</string>
   </cookies>
   <answers>
     <string>it is certain.</string>
@@ -106,5 +107,9 @@
     <string>I&apos;ll answer after we have interviewed Paulo.</string>
     <string>only when emacs and vim learn to live in harmony.</string>
     <string>42.</string>
+    <string>I&apos;m too busy thinking about ducks to answer right now.</string>
+    <string>stop hassling me, dud.</string>
+    <string>only when pink elephants learn to fly.</string>
+    <string>yeah, go for it.</string>
   </answers>
 </messages>
