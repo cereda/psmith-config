@@ -48,6 +48,8 @@
     <string>Someone&apos;s going to find a bug in your code.</string>
     <string>If you&apos;re good, you can have some ice cream.</string>
     <string>Beware the OR: it's coming to get you.</string>
+    <string>I&apos;m too busy playing to tell you your fortune.</string>
+    <string>Mmmm! Cookies!</string>
   </cookies>
   <answers>
     <string>it is certain.</string>
@@ -111,5 +113,7 @@
     <string>stop hassling me, dud.</string>
     <string>only when pink elephants learn to fly.</string>
     <string>yeah, go for it.</string>
+    <string>only if you can pat your head and rub your tummy at the same time.</string>
+    <string>only the members of the secret duck society know the answer to that.</string>
   </answers>
 </messages>
